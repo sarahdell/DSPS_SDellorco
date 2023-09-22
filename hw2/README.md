@@ -1,4 +1,4 @@
-I worked on this homework with Masooma Sarfraz and Miles Garcia. We also received some help from Willow.
+I worked on this homework with Masooma Sarfraz and Miles Garcia. We also received some help from Willow in creating the Gaussian distribution to fit the Chi-Squared histogram.
 
 This homework is a practice in using multiple distributions. Homework 1, the Maxwell-Boltzmann Distribution, is a physics application of the Chi Distribution; it is a type of
 Chi Distribution. Homework 2, the Central Limit Theorem, used Chi-Squared Distributions, Normal Distributions, Guassian Distribution, Binomial Distributions, Poisson 
