@@ -1,3 +1,5 @@
+**Homework 2**
+
 I worked on this homework with Masooma Sarfraz and Miles Garcia. I also received some help from Willow in creating the Gaussian distribution to fit the Chi-Squared histogram. 
 
 This homework is a practice in using multiple distributions. Homework 1, the Maxwell-Boltzmann Distribution, is a physics application of the Chi Distribution; it is a type of
